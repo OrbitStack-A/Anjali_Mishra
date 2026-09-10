@@ -27,10 +27,10 @@ Highly motivated Mathematics (Honours) student with a strong foundation in compu
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackQuest-6C3EF4?style=flat-square" alt="HackQuest Profile"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/anjali-mishra-85aaa722a?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/FourierInSpace"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.hackquest.io/user/Bumblebee"><img src="https://img.shields.io/badge/HackQuest-6C3EF4?style=flat-square" alt="HackQuest Profile"/></a>
+  <a href="vaimanik067@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">📍 Delhi</p>
