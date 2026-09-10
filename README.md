@@ -18,9 +18,6 @@
   ================================================================
 -->
 
-<p align="center">
-  <img src="" width="160" height="160" style="border-radius:50%;" alt="Add your photo — replace src=&quot;&quot; above with an image path or URL" />
-</p>
 
 <h1 align="center">Anjali Mishra</h1>
 
@@ -139,9 +136,13 @@ Contributing to community growth, learning initiatives, and ecosystem engagement
 ### BRICS Astronomy, Data Science and ML Training Summer School
 *May 2026 – Jul 2026 · Training*
 
-[Add a short description of what you worked on during this summer school.]
+Gained hands-on training in astronomical data analysis, Python, machine learning, and statistical methods for astronomy research.
+Worked with NASA Kepler Exoplanet Archive data, applying data preprocessing, feature engineering, exploratory analysis, and supervised machine learning techniques.
+Capstone Project: Developed an interpretable ML approach to distinguish real exoplanets from astrophysical false positives using Kepler DR25 KOI transit-shape parameters.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<a href="https://colab.research.google.com/drive/19JrSVSj5Duubyaxn4p_pugks5JopKxx3#scrollTo=6uY5pxTl159C" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
 
 ### Research, Mata Sundri College — Software Aging
 *Aug 2024 – Jan 2026 · Research*
